@@ -1,10 +1,10 @@
-# airfare_prediction
+# Airfare Dataset Description
 
 Machine Learning for Airfare Prediction
 
-In this project we compared 8 state of art models for predicting airfares
+This dataset is useful for evaluating or developing new prediction models of airfare prices.
 
-The dataset contains 1814 flights for training, and 100 flights for testing.
+The dataset contains 1814 flights. This data originally used in a 10-fold crossvalidation procedure to train and evaluate several state of the art machine learning models applied to predict the airfare prices.
 
 Records are for flights from Thessaloniki (SKG) - Greece --> Stuttgart (STR) - Germany
 
@@ -28,7 +28,6 @@ For every flight the following features were considered:
 
  F8: Feature 8 - day of week.
  
- If you use our dataset, please also cite this paper:
  
  # Citation
  If you use this dataset for your publications, please cite it as:
