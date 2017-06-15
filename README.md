@@ -6,7 +6,7 @@ In this project we compared 8 state of art models for predicting airfares
 
 The dataset contains 1814 flights for training, and 100 flights for testing.
 
-Records are for flights from Thessaloniki (SKG) --> Stuttgart (STR)
+Records are for flights from Thessaloniki (SKG) - Greece --> Stuttgart (STR) - Germany
 
 This dataset was manually collected from [Airtickets.gr](http://www.airtickets.gr)
 
@@ -30,4 +30,8 @@ For every flight the following features were considered:
  
  If you use our dataset, please also cite this paper:
  
+ # Citation
+ If you use this dataset for your publications, please cite it as:
  
+ K. Tziridis, Th. Kalampokas, G.A. Papakostas, K.I. Diamantaras, "Airfare Prices Prediction Using Machine Learning Techniques",
+ European Signal Processing Conference (EUSIPCO), 28 August 28 - 2 September, Kos, Greece, 2017.  
