@@ -6,6 +6,10 @@ In this project we compared 8 state of art models for predicting airfares
 
 The dataset contains 1814 flights for training, and 100 flights for testing.
 
+Records are for flights from Thessaloniki (SKG) --> Stuttgart (STR)
+
+This dataset was manually collected from [Airtickets.gr](http://www.airtickets.gr)
+
 For every flight the following features were considered:
 
  F1: Feature 1 - departure time.
